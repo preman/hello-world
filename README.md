@@ -1,2 +1,7 @@
 # hello-world
-Just another repository
+
+Hi Humans!
+
+Albert here, I'm a WECAR
+
+Thank you!
